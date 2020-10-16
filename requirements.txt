@@ -4,7 +4,7 @@ scipy
 scikit-learn
 Flask==1.1.2
 Jinja2==2.11.2
-urlib
+urllib3==1.25.9
 Keras-Preprocessing==1.1.2
 Pillow==7.2.0
 tensorboard==2.3.0
