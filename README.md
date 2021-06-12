@@ -1,7 +1,10 @@
 # Image-caption-generator-using-deep-learning
 
-This project involves the concepts of MLP's,CNN,RNN,transfer leraning,word embeddings and language modelling.
-The dataset is Flicker8k dataset available on Kaggle.
+This project is about creating and deploying a deep learning model which takes an image as an
+input and generates the most suitable caption related to that image as output.It is trained on
+Flicker/8k dataset available on kaggle and it uses machine learning and deep learning
+techniques like CNN’S, RNN’S , LSTM’S, Feed forward neural network,Word Embeddings,
+language modelling,and transfer learning.
 Here is the link to dataset:
 https://www.kaggle.com/ming666/flicker8k-dataset/notebooks
 
