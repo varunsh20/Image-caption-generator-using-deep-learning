@@ -33,5 +33,5 @@ Now three models are created one which converts a 2048 dimensional image vector 
 ![Screenshot (115)](https://user-images.githubusercontent.com/62187533/121787047-7bcc5180-cbe1-11eb-9c00-d2760fbf6975.png)
 ![Screenshot (116)](https://user-images.githubusercontent.com/62187533/121787049-7bcc5180-cbe1-11eb-9cf5-0b28ddb5eb70.png)
 
-## Reference:
+## References:
 https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
