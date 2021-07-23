@@ -1,6 +1,6 @@
 # Image-caption-generator-using-deep-learning
 
-The goal of this project is about creating a deep learning model which takes an image as an
+The goal of this project is to create a deep learning model which takes an image as an
 input and generates the most suitable caption related to that image as output.It is trained on
 Flicker/8k dataset available on kaggle and it uses machine learning and deep learning
 techniques like CNN’S, RNN’S , LSTM’S, Feed forward neural network,Word Embeddings,
